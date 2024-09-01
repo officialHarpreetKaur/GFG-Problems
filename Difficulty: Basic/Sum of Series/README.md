@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/sum-of-series2811/1?page=1&difficulty=Basic&sortBy=submissions">Sum of Series</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Write a program to find the sum of the given series 1+2+3+ . . . . . . (n terms)&nbsp;</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/sum-of-series2811/1?page=1&difficulty=School,Basic&sortBy=submissions">Sum of Series</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Write a program to find the sum of the given series 1+2+3+ . . . . . . (n terms)&nbsp;</span></p>
 <p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
 <pre><span style="font-size: 14pt;"><strong>Input: </strong>n = 1
 <strong>Output:</strong> 1
